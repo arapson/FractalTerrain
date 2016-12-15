@@ -1,5 +1,5 @@
 # FractalTerrain
-Created a Fractal Generated Terrain using the Diamond-Square Algorithm using C++ in OpenGL.
+Created a randomly Generated Fractal Terrain using the Diamond-Square Algorithm using C++ in OpenGL.
 
 Video Link:  watch?v=hMHtwEbk9e0&feature=youtu.be
 
